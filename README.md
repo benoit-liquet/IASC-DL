@@ -3,6 +3,17 @@
 - Event organized by IASC   [https://www.statsoc.org.au/event-5183897](https://iascars2023.netlify.app/workshop.html)
 - Workshop based on Chapt 5, 6 and 7 of [The Mathematical Engineering of Deep Learning](https://deeplearningmath.org)
 
+# COURSE OUTLINE
+
+- 9:00 to 10:45:  **Feed-forward deep neural network (part 1)**
+- 10:45 to 11:15: Break (might need a coffee)
+- 11:15 to 12:30: **Feed-forward deep neural network (part 2)**
+- 12:30 to 13:30: Lunch Break 
+- 13h30 to 15:00: **Convolutional neural networks** 
+- 15:00 to 15:30: Break (might need another coffee)
+- 15:30 to 17:00: **Sequence models** 
+
+
 # Material 
 
 
