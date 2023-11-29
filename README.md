@@ -1,4 +1,4 @@
-# MATHEMATICAL ENGINEERING OF DEEP LEARNING - PART ONE FOUNDATIONS
+# MATHEMATICAL ENGINEERING OF DEEP LEARNING - FOUNDATIONS
 
 - Event organized by IASC   [https://www.statsoc.org.au/event-5183897](https://iascars2023.netlify.app/workshop.html)
 - Workshop based on Chapt 5, 6 and 7 of [The Mathematical Engineering of Deep Learning](https://deeplearningmath.org)
