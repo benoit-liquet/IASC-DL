@@ -23,6 +23,7 @@
     - Part 1: [Deep Neural Network](/Deep_learning_DNN.nb.html.zip)
     - Part 2: [Convolutional Neural Networks](/Deep_learning_CNN.nb.html.zip)
     - Part 3: [Sequence Models](/Deep_learning_RNN.nb.html.zip)
+    - Part 4: [Transformer Models](/Deep_learning_LLM_IASC.pdf)
 
 
 # R user 
